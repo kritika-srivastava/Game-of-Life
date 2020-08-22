@@ -1,1 +1,1 @@
-# AAAAAA
+# Conway's Game Of Life
